@@ -1,0 +1,41 @@
+*
+{
+}
+
+
+body {
+    background-color: #D3D3D3;
+}
+
+#inside-wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1600px;
+}
+
+#ans{
+    width: 800px;
+    height: 600px;
+    resize: none;
+    margin-right: 10px;
+    position: relative;
+    float: left;
+
+}
+
+#instruct-content{
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    background-color: white;
+    margin-left: 0px;
+float: left;
+    position: relative;
+}
+
+#submit{
+    float: left;
+    margin-right: 100%;
+}

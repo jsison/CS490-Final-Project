@@ -1,0 +1,36 @@
+* {
+
+}
+
+html{
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: #D3D3D3;
+
+}
+
+
+.login-wrapper{
+    margin-left: 30%;
+    display: block;
+    width: 25%;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    background-color: white;
+    position: fixed;
+    
+    border-radius: 25px;
+
+}
+
+.login-wrapper form{
+}
+    
+
